@@ -1,3 +1,4 @@
+/**@jsxImportSource https://esm.sh/react*/
 const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
 import { useState, useRef, useEffect, useCallback } from "react";
 
